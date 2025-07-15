@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Sheikh Asiful Islam
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Daily+beecrowd+solver;C%2B%2B+learner;Loves+problem+solving)
+🎓 **About Me**  
+I'm a BSc (Honours) student in Computer Science and Engineering at the National University of Bangladesh.
 
-## 🛠️ What I do
-- Solving daily problems from [beecrowd](https://www.beecrowd.com.br/)
-- Practicing and improving my skills with C++
+💻 **What I'm Learning**  
+I'm learning C++ and actively working to improve my problem-solving skills.  
+Every day, I try to solve at least one problem on Beecrowd to practice and stay consistent.
 
-## 📂 My projects
-- [beecrowd-cpp](https://github.com/sheikhasifulislam/beecrowd-cpp): My daily solutions to beecrowd problems in C++
+📂 **My Projects**  
+- [beecrowd-cpp](https://github.com/sheikhasifulislam/beecrowd-cpp) – Daily solutions to Beecrowd problems in C++
 
-## 🌱 Goals
-- Become better at competitive programming
-- Build strong problem solving skills
+📫 **Contact**  
+- Email: sheikhasifulislam@outlook.com  
+- LinkedIn: [linkedin.com/in/sheikhasifulislam](https://www.linkedin.com/in/sheikhasifulislam/)
